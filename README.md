@@ -1,4 +1,4 @@
-# Sistema de Compra
+# Sistema de Compra - Henrique Santos
 
 Requisitos da Aplicação
 A aplicação a ser desenvolvida deve permitir a execução das seguintes ações através de sua interface gráfica:
